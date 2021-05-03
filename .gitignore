@@ -1,1 +1,6 @@
-study.txt
+*.txt
+*.html
+Ex_Files_MySQL_EssT
+*.sh
+*.sh.save
+*.py.save
