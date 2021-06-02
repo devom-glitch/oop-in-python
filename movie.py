@@ -1,4 +1,3 @@
-print('Movie App')
 class Movie:
     def __init__(self,movie_id,movie_name,ticket_cost):
         self.movie_id = movie_id
